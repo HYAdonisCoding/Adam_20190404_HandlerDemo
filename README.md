@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HYCategory
 
 [![CI Status](https://img.shields.io/travis/HYAdonisCoding/HYCategory.svg?style=flat)](https://travis-ci.org/HYAdonisCoding/HYCategory)
@@ -27,3 +28,7 @@ HYAdonisCoding, 296786475@qq.com
 ## License
 
 HYCategory is available under the MIT license. See the LICENSE file for more info.
+=======
+# Adam_20190404_HandlerDemo
+After reading the Effective Objective-C 2.0.
+>>>>>>> fa12e190d4859c938da6960e7ef4f706dcda8f34
